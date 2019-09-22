@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daiceighoh.sugarandfrogs.com/sitemap.xml
